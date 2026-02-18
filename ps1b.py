@@ -7,7 +7,7 @@ portion_saved = float(input("Enter the percent of your salary to save, as a deci
 #cost of the dream house
 house_cost = float(input("Enter the cost of your dream home: \n"))
 
-#semi-annual raise in percentage
+#semi annual raise in percentage
 semi_annual_raise = float(input("Enter the semi-annual raise, as a decimal: \n"))
 
 
@@ -38,3 +38,4 @@ while current_savings < down_payment:
 
 # Output
 print("Number of months:", months)
+
