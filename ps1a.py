@@ -1,3 +1,6 @@
+#collaborators = M. sujith
+
+
 # take annual salary from user
 annual_salary = float(input("Enter your annual salary: "))
 
@@ -31,3 +34,4 @@ while current_savings < down_payment:
     months += 1        #counting number of months
 # output
 print("Number of months:", months)
+
