@@ -73,5 +73,6 @@ else:
             high = mid
 
 #output
-    print(f"Best savings rate: {best_rate:.4f}")
+    print(f"Best savings rate: {best_rate:.4f}")  #to have 4 digits after decimal
+
     print("Steps in bisection search:", steps)
