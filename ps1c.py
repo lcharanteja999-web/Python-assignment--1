@@ -1,3 +1,7 @@
+#collaborators = M.sujith
+
+
+
 # take starting salary as input
 starting_salary = float(input("Enter the starting salary: "))
 
@@ -76,3 +80,4 @@ else:
     print(f"Best savings rate: {best_rate:.4f}")  #to have 4 digits after decimal
 
     print("Steps in bisection search:", steps)
+
